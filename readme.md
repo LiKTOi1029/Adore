@@ -34,13 +34,13 @@ Where you can see all of the usable commands currently available in this project
 adore.drawBox(BoxCoordinatesX, BoxCoordinatesY, BoxSize, Colors, Name)
 ```
 
-This command draws a perfect square with an outline slightly offset in color from the `BoxColors` parameter.\
+This command draws a perfect square with an outline slightly offset in color from the `BoxColors` parameter.
 
 `BoxCoordinatesX` Integer\
 `BoxCoordinatesY` Integer\
 `BoxSize` Integer\
 `Colors` Table, `{Red (Float), Green (Float), Blue (Float)}`, see [the Love2D docs](https://love2d.org/wiki/love.graphics.setColor)\
-`Name` String, must be unique for each `adore.drawBox`, however is optional.\
+`Name` String, must be unique for each `adore.drawBox`, however is optional.
 
 ### adore.drawRectangle()
 
@@ -49,13 +49,13 @@ adore.drawRectangle(RectangleCoordinatesX, RectangleCoordinatesY, RectangleSizeX
 ```
 
 This command draws a rectangle with an outline slightly offset in color from the `Color` paremeter, very similar to the 
-aforementioned `adore.drawBox()`.\
+aforementioned `adore.drawBox()`.
 
 `RectangleCoordinatesX` Integer\
 `RectangleCoordinatesY` Integer\
 `RectangleSizeX` Integer\
 `RectangleSizeY` Integer\
 `Colors` Table, `{Red (Float), Green (Float), Blue (Float)}`, see [the Love2D docs](https://love2d.org/wiki/love.graphics.setColor)\
-`Name` String, must be unique for each `adore.drawRectangle`, however is optional\
+`Name` String, must be unique for each `adore.drawRectangle`, however is optional
 
 ### adore.addObject()
