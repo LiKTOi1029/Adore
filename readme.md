@@ -59,3 +59,5 @@ aforementioned `adore.drawBox()`.
 `Name` String, must be unique for each `adore.drawRectangle`, however is optional
 
 ### adore.addObject()
+
+Work in progress
